@@ -6,7 +6,7 @@ Publication: Singh et al. 2020. bioRxiv. (https://www.biorxiv.org/content/10.110
 
 Contact: Vikas Bansal (Vikas.Bansal@dzne.de)
 
-Direct to the data: https://scarface.cells.ucsc.edu
+Link to the data: https://scarface.cells.ucsc.edu
 
 
 
