@@ -22,8 +22,6 @@ Adult_Testis <- readRDS(file = "OutputData/Online_put2/Adult_Testis.rds")
 iPSCsDopa.integratedv2 <- Adult_Testis
 DefaultAssay(iPSCsDopa.integratedv2) <- "RNA"
 
-
-
 GeneReceptors <- c("ACE2","DPP4","BSG","ANPEP","CD209","CLEC4G","CLEC4M")
 GeneProtease <- c("TMPRSS2","CTSB","CTSL","FURIN","TMPRSS4","TMPRSS11a","TMPRSS11b")
 
