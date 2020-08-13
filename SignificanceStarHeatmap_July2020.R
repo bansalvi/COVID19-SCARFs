@@ -1,5 +1,5 @@
 #Vikas Bansal July 2020
-#Calculate the significance (Fisher's exact tet) number/percentage of positive cells for a gene (at least one count) and create bonferroni corrected heatmap with star.
+#Calculate the significance (Fisher's exact test) number/percentage of positive cells for a gene (at least one count) and create bonferroni corrected heatmap with star.
 
 set.seed(786)
 setwd("/data/vikas/COV_ace/")
@@ -14,7 +14,6 @@ library(reshape2)
 pathto.outPlots <- "/data/vikas/COV_ace/OutputPlotsRevision/"
 pathto.outData <- "/data/vikas/COV_ace/OutputPlotsRevision/"
 outName <- "TestisStar"
-
 
 
 Adult_Testis <- readRDS(file = "OutputData/Online_put2/Adult_Testis.rds")
